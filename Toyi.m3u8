@@ -1,6 +1,6 @@
 EXTM3U
 #EXTINF:-1 tvg-id="Toyi 1"
 http://purev.ca/live/MAGFGH6AN5/MAG4GPCCCC/1463835.m3u8
-#EXTINF: -1 tvg id = "Toyi 2"
+#EXTINF:-1 tvg-id="Toyi 2"
 http://purev.ca/live/MAGFGH6AN5/MAG4GPCCCC/1393447.m3u8
 
