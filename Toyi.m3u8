@@ -1,5 +1,14 @@
 EXTM3U
-#EXTINF:-1 tvg-id="Toyi 1"
+#EXTINF:-1 tvg-id="YAGA"
+https://ip385382293.ahcdn.com/key=u2b8jV7AsHDbzSwr9oe8wA,s=,end=1794750732/state=avVYRy-K/buffer=904795:2193325,1939.3/speed=90480/reftag=0291148543/ssd4/1408/3/292344933/e/video2/c/cd/afdbb3570146b237cbbc26a65a36cccd.mp4
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
+#EXTINF:-1 tvg-id="YAGA"
 http://purev.ca/live/MAGFGH6AN5/MAG4GPCCCC/1463835.m3u8
 #EXTINF:-1 tvg-id="Toyi 2"
 http://purev.ca/live/MAGFGH6AN5/MAG4GPCCCC/1393447.m3u8
